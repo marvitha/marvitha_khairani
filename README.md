@@ -31,13 +31,13 @@ Repository Praktikum IMK
 
 ## 🌍 Let's Connect!
 <p align="center">
-  <a href="www.linkedin.com/in/reka-oktavia-br-sihombing-3a5760342" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:marvithakhairani@students.usu.ac.id">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/marvitha_khairani?igsh=Z3ByeDNqOWVmM3Zl" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
