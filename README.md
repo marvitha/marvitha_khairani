@@ -1,6 +1,6 @@
 # marvitha_khairani
 Repository Praktikum IMK
-<h1 align="center">Hi there, I'm Reka 👋</h1>
+<h1 align="center">Hi there, I'm Marvitha👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
@@ -15,7 +15,7 @@ Repository Praktikum IMK
 - 🎓 I’m currently studying *Information Technology* at *Universitas Sumatera Utara*  
 - 💡 Passionate about *Technology and Web Development*  
 - 🛠️ Exploring *Machine Learning, Backend Development, and Cloud Computing*  
-- 🎯 2024 Goals: *Contribute more to Open Source & Build cool projects*  
+- 🎯 2025 Goals: *Contribute more to Open Source & Build cool projects*  
 
 ## 🔥 Tech Stack
 <p align="center">
